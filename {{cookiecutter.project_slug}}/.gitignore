@@ -1,0 +1,11 @@
+# system files / osx noise
+.DS_Store
+
+# ignore node, bower, etc,  modules
+node_modules/
+bower_components/
+.sass-cache
+
+www/*
+deploy/
+dist/

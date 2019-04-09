@@ -1,0 +1,6 @@
+{
+    "project_slug": "repo slug",
+    "title": "title",
+    "description": "project description",
+    "development_port": "8080"
+}
